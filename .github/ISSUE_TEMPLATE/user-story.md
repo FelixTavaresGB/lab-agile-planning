@@ -1,5 +1,5 @@
 ---
-name: USER STORY
+name: PROYECTO FINAL AGIL
 about: THIS TEMPLATE IS FOR CREATTING USER STORIES
 title: ''
 labels: ''
